@@ -13,12 +13,16 @@ input {
     margin-bottom: 4px;
 }
 
-button {
+.btn {
     background: #5f9341;
     color: white;
     padding: 10px 20px;
-    border: none;
+    border: .8em;
+    border-radius: .4em;
     font-weight: bold;
+}
+#reset-btn {
+    background: red;
 }
 
 ul {
